@@ -33,6 +33,18 @@ I work across cross-platform mobile, native iOS and Android, frontend, backend, 
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🐉 Mouse of The Dragon
+A tiny fire-breathing dragon that lives on your Mac cursor.
+
+A playful macOS menu-bar companion: it glides after your pointer, breathes fire when you click, and ships with five dragon breeds plus a full builder. Free, signed and notarized, and it needs **zero permissions** — no network, no tracking. Built with Swift + AppKit + SpriteKit.
+
+[mouseofthedragon.fun](https://mouseofthedragon.fun) ↗
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### AthanLab
